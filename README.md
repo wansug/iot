@@ -26,4 +26,6 @@ import matplotlib.pyplot as plt
 plt.plot(cost_list)
 plt.show();
 #----- 테스트/예측
-print(sess.run(w * [3]))```
+print(sess.run(w * [3]))
+
+```
