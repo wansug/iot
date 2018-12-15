@@ -1,19 +1,17 @@
-¾ÆÆÄÄ¡ »èÁ¦
+#APACHE REMOVE
 
-sudo ape-get remove --purge apache2
+sudo apt-get remove --purge apache2
 
 sudo apt-get clean
 
 
-
-
-ÇÃ¶ó½ºÅ© ¼³Ä¡
+#FLASK INSTALL
 
 sudo apt-get update
 
 sudo apt-get upgrade
 
-(»ı·«)sudo apt-get install python-pip
+(ìƒëµ)sudo apt-get install python-pip
 
 sudo pip3 install flask
 
