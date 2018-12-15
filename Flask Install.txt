@@ -11,8 +11,6 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-(생략)sudo apt-get install python-pip
-
 sudo pip3 install flask
 
 
